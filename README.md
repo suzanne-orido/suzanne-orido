@@ -1,6 +1,6 @@
 
 ## 📄 Articles
-- [My Article Title](articles/my-article-title.md)
+- [My Article Title](articles/my-article.md)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
