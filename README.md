@@ -1,5 +1,6 @@
-## Hi there 👋
-## 📝 Latest Blog Posts
+
+## 📄 Articles
+- [Git and GitHub](articles/my-article-title.md)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
