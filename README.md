@@ -1,6 +1,6 @@
 
 ## 📄 Articles
-- [Git and GitHub](articles/my-article-title.md)
+- [My Article Title](articles/my-article-title.md)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
